@@ -1,25 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to a Pittsburgh Steelers fanpage
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use ESPN to see the Steelers winning games
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you live in Pittsburgh, you're a Steelers fan forever 🤷‍♂️
 
-### Markdown
+### Super Bowl
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Steelers are winning it :)
+
+### Important Stuff I'm Gonna Keep Here
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 I love TJ Watt
+## Header 2 Russell Wilson will be good
+### Header 3 Arthur Smith offense >>>
 
-- Bulleted
-- List
+- Bulleted Alex Highsmith szn
+- List Cam Johnston shoutout
 
-1. Numbered
-2. List
+1. Numbered 
+2. List 
 
 **Bold** and _Italic_ and `Code` text
 
