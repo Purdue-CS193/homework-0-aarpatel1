@@ -1,4 +1,10 @@
-## Welcome to a Pittsburgh Steelers fanpage
+## Aarav Patel's First CS193 Homework
+### Things I like about CS193
+  - GPA Booster :P
+  - Very helpful for Github beginners
+  - Good place to meet fellow CS freshman!
+
+### Welcome to a Pittsburgh Steelers fanpage
 
 You can use ESPN to see the Steelers winning games
 
@@ -7,6 +13,8 @@ Whenever you live in Pittsburgh, you're a Steelers fan forever 🤷‍♂️
 ### Super Bowl
 
 The Steelers are winning it :)
+
+### 
 
 ### Important Stuff I'm Gonna Keep Here
 
